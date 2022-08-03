@@ -1,1 +1,1 @@
-# openFrameworks works
+# openFrameworks collection of works
